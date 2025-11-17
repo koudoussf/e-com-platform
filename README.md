@@ -4,22 +4,23 @@ This project was completed as part of my learning of the Django framework.
 
 ## main features
 
--   Catalog views for browsing products\
--   Shopping cart stored using Django sessions\
--   Customer order registration and management\
--   Background workers with message queues and brokers\
--   Payment gateway integration with Stripe\
--   Orders export in CSV format\
+-   Catalog views for browsing products
+-   Shopping cart stored using Django sessions
+-   Customer order registration and management
+-   Background workers with message queues and brokers
+-   Payment gateway integration with Stripe
+-   Orders export in CSV format
 -   Coupon system
 -   recommendation engine with Redis 
 
 ## Technologies used
 
--   Python / Django\
--   HTML / CSS / JS\
--   Celery \
--   RabbitMQ \
--   Redis \
+-   Python / Django
+-   HTML / CSS / JS
+-   Celery 
+-   RabbitMQ 
+-   Redis 
+-   SQLite
 
 ## Installation
 
@@ -68,9 +69,9 @@ python manage.py runserver
     ├── manage.py
     └── requirements.txt
 
-## 📋 To-Do List
+## To-Do List
 
-### 🎯 Fonctionnalités
+### Features
 
 -   [ ] Add "about"
 -   [ ] Add internationalization
@@ -89,3 +90,4 @@ python manage.py runserver
 -   [ ] Prepare Dockerfile
 -   [ ] Set CI/CD
 
+## Screenshoots
