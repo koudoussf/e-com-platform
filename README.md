@@ -91,9 +91,21 @@ python manage.py runserver
 -   [ ] Set CI/CD
 
 ## Screenshoots
+
+### Home page
 ![Home page](images/homepage.png)
+
+### Product detail
 ![Product detail](images/product_detail.png)
+
+### Shopping cart
 ![Shopping cart](images/shopping_carte.png)
+
+### checkout
 ![checkout](images/checkout.png)
+
+### Order summary
 ![Order summary](images/order_summary.png)
+
+### Payment page
 ![Payment page](images/payment_page.png)
