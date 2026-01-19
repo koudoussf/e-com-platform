@@ -93,19 +93,19 @@ python manage.py runserver
 ## Screenshoots
 
 ### Home page
-![Home page](images/homepage.png)
+(images/homepage.png)
 
 ### Product detail
-![Product detail](images/product_detail.png)
+(images/product_detail.png)
 
 ### Shopping cart
-![Shopping cart](images/shopping_carte.png)
+(images/shopping_carte.png)
 
 ### checkout
-![checkout](images/checkout.png)
+(images/checkout.png)
 
 ### Order summary
-![Order summary](images/order_summary.png)
+(images/order_summary.png)
 
 ### Payment page
-![Payment page](images/payment_page.png)
+(images/payment_page.png)
